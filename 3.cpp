@@ -5,7 +5,7 @@ using namespace std;
 template <typename T1, typename T2> class DoubleBox
 {
 private:
-    T1 content1 = T1(); // инициализация атрибута при объявлении, стандарт C++11
+    T1 content1 = T1(); // РёРЅРёС†РёР°Р»РёР·Р°С†РёСЏ Р°С‚СЂРёР±СѓС‚Р° РїСЂРё РѕР±СЉСЏРІР»РµРЅРёРё, СЃС‚Р°РЅРґР°СЂС‚ C++11
     T2 content2 = T2();
 public:
     DoubleBox() {}
